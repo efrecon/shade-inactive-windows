@@ -4,7 +4,7 @@ const Meta = imports.gi.Meta;
 const Lang = imports.lang;
 const Main = imports.ui.main;
 const Config = imports.misc.config;
-const Tweener = Config.PACKAGE_VERSION.startsWith("3.38") ? imports.tweener.tweener : imports.ui.tweener;
+const Tweener = imports.tweener.tweener;
 const Clutter = imports.gi.Clutter;
 
 const SHADE_TIME = 0.3;
