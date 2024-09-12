@@ -5,7 +5,14 @@
         "3.8",
         "3.10",
         "3.12",
-        "3.38"
+        "3.38",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
     ],
     "uuid": "shade-inactive-windows@hepaajan.iki.fi",
     "name": "Shade Inactive Windows",
